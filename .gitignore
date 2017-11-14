@@ -50,3 +50,9 @@ Temporary Items
 test.json
 train.json
 test.json.7z
+
+# hide working notebooks
+# this is required according to competition rules under the Kaggle competition in which this project will participate
+# after the competition has ended, the notebooks will be made available in this repository
+# until then, notebooks will be placed in my G-Drive for sharing where and when necessary
+*.ipynb
